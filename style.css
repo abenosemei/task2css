@@ -1,0 +1,46 @@
+/* style.css */
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+
+#BANNER {background-color: #72351d;
+    color: #000000;
+    padding: 20px 0;
+    text-align: center;
+    }
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    background-color: #deb887;
+    text-align: center;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #0a5714;
+    text-decoration: none;
+}
+
+main {
+    background-color: #deb887;
+    padding: 20px;
+    color: rgb(141, 45, 7);
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: black;
+}
+footer {
+    background-color: #deb887;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
